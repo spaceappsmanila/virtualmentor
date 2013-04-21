@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/LICENSE
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/CHANGELOG
+END
+package.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/package.xml.tmpl
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/COPYRIGHT
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/README
+END

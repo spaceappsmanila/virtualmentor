@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/frontend/lib
+END
+myAutoload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/frontend/lib/myAutoload.class.php
+END
+myAppsFrontendLibClass.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/frontend/lib/myAppsFrontendLibClass.class.php
+END
+myFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/frontend/lib/myFilter.class.php
+END
+myUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/frontend/lib/myUser.class.php
+END
+myAutoloadedClass.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/frontend/lib/myAutoloadedClass.class.php
+END

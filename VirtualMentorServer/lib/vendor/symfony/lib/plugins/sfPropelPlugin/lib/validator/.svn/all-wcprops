@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/validator
+END
+sfValidatorPropelChoice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/validator/sfValidatorPropelChoice.class.php
+END
+sfValidatorPropelUnique.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/validator/sfValidatorPropelUnique.class.php
+END

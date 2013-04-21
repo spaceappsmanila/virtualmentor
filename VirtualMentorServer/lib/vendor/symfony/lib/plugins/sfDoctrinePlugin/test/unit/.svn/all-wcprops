@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/unit
+END
+sfDoctrineDatabaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/unit/sfDoctrineDatabaseTest.php
+END
+autoloaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/unit/autoloaderTest.php
+END
+sfDoctrineColumnTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/unit/sfDoctrineColumnTest.php
+END

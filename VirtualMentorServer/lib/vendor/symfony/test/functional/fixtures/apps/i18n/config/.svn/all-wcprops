@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/routing.yml
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/factories.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/filters.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/security.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/app.yml
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/cache.yml
+END
+i18nConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/i18nConfiguration.class.php
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/settings.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/i18n/config/view.yml
+END

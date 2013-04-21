@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/frontend/modules/view/templates
+END
+imageSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/frontend/modules/view/templates/imageSuccess.php
+END
+plainSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/frontend/modules/view/templates/plainSuccess.php
+END
+fooSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/apps/frontend/modules/view/templates/fooSuccess.php
+END

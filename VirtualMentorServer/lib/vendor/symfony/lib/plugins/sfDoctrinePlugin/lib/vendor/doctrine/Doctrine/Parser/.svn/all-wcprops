@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Parser
+END
+Xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Parser/Xml.php
+END
+Json.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Parser/Json.php
+END
+Yml.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Parser/Yml.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Parser/Exception.php
+END
+Serialize.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Parser/Serialize.php
+END

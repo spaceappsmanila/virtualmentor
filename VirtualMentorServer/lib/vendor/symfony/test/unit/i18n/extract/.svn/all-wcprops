@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n/extract
+END
+sfI18nYamlValidateExtractorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n/extract/sfI18nYamlValidateExtractorTest.php
+END
+sfI18nYamlGeneratorExtractorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n/extract/sfI18nYamlGeneratorExtractorTest.php
+END
+sfI18nPhpExtractorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n/extract/sfI18nPhpExtractorTest.php
+END
+sfI18nExtractTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n/extract/sfI18nExtractTest.php
+END

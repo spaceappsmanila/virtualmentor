@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/validator/i18n
+END
+sfValidatorI18nChoiceLanguage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/validator/i18n/sfValidatorI18nChoiceLanguage.class.php
+END
+sfValidatorI18nChoiceTimezone.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/validator/i18n/sfValidatorI18nChoiceTimezone.class.php
+END
+sfValidatorI18nChoiceCountry.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/validator/i18n/sfValidatorI18nChoiceCountry.class.php
+END

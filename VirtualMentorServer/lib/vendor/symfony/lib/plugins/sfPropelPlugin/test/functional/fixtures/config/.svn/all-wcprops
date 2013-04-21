@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/config
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/config/propel.ini
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/config/ProjectConfiguration.class.php
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/config/databases.yml
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/config/properties.ini
+END
+rsync_exclude.txt
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/config/rsync_exclude.txt
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/config/schema.xml
+END

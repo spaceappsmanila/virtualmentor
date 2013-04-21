@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Node/AdjacencyList
+END
+LevelOrderIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Node/AdjacencyList/LevelOrderIterator.php
+END
+PreOrderIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Node/AdjacencyList/PreOrderIterator.php
+END
+PostOrderIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Node/AdjacencyList/PostOrderIterator.php
+END

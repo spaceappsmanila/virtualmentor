@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/coverage
+END
+CoverageMergerTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/coverage/CoverageMergerTask.php
+END
+CoverageSetupTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/coverage/CoverageSetupTask.php
+END
+CoverageReportTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/coverage/CoverageReportTransformer.php
+END
+CoverageReportTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/coverage/CoverageReportTask.php
+END
+CoverageMerger.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/coverage/CoverageMerger.php
+END

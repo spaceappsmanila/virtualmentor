@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional
+END
+FormTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/FormTest.php
+END
+SchemaMergeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/SchemaMergeTest.php
+END
+RouteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/RouteTest.php
+END
+EnvironmentSetupTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/EnvironmentSetupTest.php
+END
+I18nTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/I18nTest.php
+END
+sfDoctrineRecordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/sfDoctrineRecordTest.php
+END
+AdminGenBrowser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/AdminGenBrowser.class.php
+END
+FormGeneratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/FormGeneratorTest.php
+END
+AdminGenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/AdminGenTest.php
+END
+UniqueTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/UniqueTest.php
+END
+UploadTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/UploadTest.php
+END
+ActionRedirectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/ActionRedirectTest.php
+END
+PagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/PagerTest.php
+END

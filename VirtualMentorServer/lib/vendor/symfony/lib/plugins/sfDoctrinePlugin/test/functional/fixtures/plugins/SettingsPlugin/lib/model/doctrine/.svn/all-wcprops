@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/plugins/SettingsPlugin/lib/model/doctrine
+END
+PluginSetting.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/plugins/SettingsPlugin/lib/model/doctrine/PluginSetting.class.php
+END
+PluginSettingTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/plugins/SettingsPlugin/lib/model/doctrine/PluginSettingTable.class.php
+END

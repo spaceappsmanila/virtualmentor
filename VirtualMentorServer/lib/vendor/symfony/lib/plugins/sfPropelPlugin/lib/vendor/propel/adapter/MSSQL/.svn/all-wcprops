@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel/adapter/MSSQL
+END
+MssqlPropelPDO.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel/adapter/MSSQL/MssqlPropelPDO.php
+END
+MssqlDateTime.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel/adapter/MSSQL/MssqlDateTime.class.php
+END
+MssqlDebugPDO.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel/adapter/MSSQL/MssqlDebugPDO.php
+END

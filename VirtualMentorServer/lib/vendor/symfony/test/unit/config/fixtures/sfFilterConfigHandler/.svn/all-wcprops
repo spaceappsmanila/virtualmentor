@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler
+END
+disable.yml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/disable.yml
+END
+not_disabled.yml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/not_disabled.yml
+END
+no_class.yml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/no_class.yml
+END
+no_execution.yml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/no_execution.yml
+END
+condition.yml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/condition.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/filters.yml
+END
+default_filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/default_filters.yml
+END
+result.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/result.php
+END
+no_rendering.yml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfFilterConfigHandler/no_rendering.yml
+END

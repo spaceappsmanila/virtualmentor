@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mailer
+END
+RecipientIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mailer/RecipientIterator.php
+END
+ArrayRecipientIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mailer/ArrayRecipientIterator.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/HeaderEncoder
+END
+Base64HeaderEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php
+END
+QpHeaderEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php
+END

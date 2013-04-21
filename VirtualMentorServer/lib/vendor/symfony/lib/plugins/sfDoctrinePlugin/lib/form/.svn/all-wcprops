@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/form
+END
+sfFormDoctrine.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/form/sfFormDoctrine.class.php
+END
+sfFormFilterDoctrine.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/form/sfFormFilterDoctrine.class.php
+END

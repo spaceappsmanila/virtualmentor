@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/simpletest
+END
+SimpleTestFormatterElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/simpletest/SimpleTestFormatterElement.php
+END
+SimpleTestPlainResultFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/simpletest/SimpleTestPlainResultFormatter.php
+END
+SimpleTestResultFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/simpletest/SimpleTestResultFormatter.php
+END
+SimpleTestTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/simpletest/SimpleTestTask.php
+END
+SimpleTestSummaryResultFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/simpletest/SimpleTestSummaryResultFormatter.php
+END
+SimpleTestCountResultFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/simpletest/SimpleTestCountResultFormatter.php
+END

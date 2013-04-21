@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/test/functional
+END
+BarFunctionalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/test/functional/BarFunctionalTest.php
+END
+FooFunctionalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/test/functional/FooFunctionalTest.php
+END

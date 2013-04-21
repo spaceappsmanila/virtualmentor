@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/sql/mysql
+END
+MysqlDataSQLBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/sql/mysql/MysqlDataSQLBuilder.php
+END
+MysqlDDLBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/sql/mysql/MysqlDDLBuilder.php
+END

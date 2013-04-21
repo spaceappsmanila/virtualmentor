@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine
+END
+FormGeneratorTest2FormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/FormGeneratorTest2FormFilter.class.php
+END
+BlogArticleFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/BlogArticleFormFilter.class.php
+END
+ArticleFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/ArticleFormFilter.class.php
+END
+ArticleTranslationFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/ArticleTranslationFormFilter.class.php
+END
+BaseFormFilterDoctrine.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/BaseFormFilterDoctrine.class.php
+END
+BlogArticleTranslationFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/BlogArticleTranslationFormFilter.class.php
+END
+SubscriptionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/SubscriptionFormFilter.class.php
+END
+AuthorInheritanceFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/AuthorInheritanceFormFilter.class.php
+END
+GroupFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/GroupFormFilter.class.php
+END
+DefaultValueTestFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/DefaultValueTestFormFilter.class.php
+END
+AttachmentFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/AttachmentFormFilter.class.php
+END
+UniqueTestFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/UniqueTestFormFilter.class.php
+END
+AuthorInheritanceConcreteFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/AuthorInheritanceConcreteFormFilter.class.php
+END
+CamelCaseFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/CamelCaseFormFilter.class.php
+END
+ResourceTypeFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/ResourceTypeFormFilter.class.php
+END
+ProfileFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/ProfileFormFilter.class.php
+END
+AuthorFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/AuthorFormFilter.class.php
+END
+UserFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/UserFormFilter.class.php
+END
+BlogAuthorFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/BlogAuthorFormFilter.class.php
+END
+PermissionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/PermissionFormFilter.class.php
+END

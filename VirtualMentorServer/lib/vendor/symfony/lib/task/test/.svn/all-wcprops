@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/test
+END
+sfTestFunctionalTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/test/sfTestFunctionalTask.class.php
+END
+sfTestUnitTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/test/sfTestUnitTask.class.php
+END
+sfTestAllTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/test/sfTestAllTask.class.php
+END
+sfTestCoverageTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/test/sfTestCoverageTask.class.php
+END
+sfLimeHarness.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/test/sfLimeHarness.class.php
+END
+sfTestBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/test/sfTestBaseTask.class.php
+END

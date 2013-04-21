@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/apps/frontend/modules/user/actions
+END
+loginAction.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/apps/frontend/modules/user/actions/loginAction.class.php
+END
+logoutAction.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/apps/frontend/modules/user/actions/logoutAction.class.php
+END
+registerAction.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/apps/frontend/modules/user/actions/registerAction.class.php
+END

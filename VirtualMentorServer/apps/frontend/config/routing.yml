@@ -1,0 +1,56 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+login:
+  url: /login
+  param: { module: user, action: login }
+  
+logout:
+  url: /logout
+  param: { module: user, action: logout }
+
+registration:
+  url: /register/:type
+  param: { module: user, action: register, type: mentee }
+
+mentor:
+  url: /mentor/create/:type
+  param: { module: mentor, action: create, type: course }
+
+course_details:
+  url: /courses/:id/:cid
+  param: { module: main, action: courses, id: 0, cid: 0 }
+
+courses:
+  url: /courses/:id
+  param: { module: main, action: courses, id: 0 }
+  
+enroll:
+  url: /enroll/:uid/:cid
+  param: { module: main, action: enroll }
+  
+user:
+  url: /user/:uid
+  param: { module: main, action: user, id: 0 }
+  
+answer:
+  url: /answer/:uid/:cid/:lid
+  param: { module: main, action: answer, uid: 0, cid: 0, lid: 0}
+  
+feedback:
+  url: /feedback/:uid/:mid/:lid
+  param: { module: main, action: feedback, uid: 0, mid: 0, lid: 0 }
+
+# default rules
+#homepage:
+#  url:   /
+#  param: { module: default, action: index }
+
+# generic rules
+# please, remove them by adding more specific rules
+#default_index:
+#  url:   /:module
+#  param: { action: index }
+#
+#default:
+#  url:   /:module/:action/*

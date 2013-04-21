@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing
+END
+AbstractPropelDataModelTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/AbstractPropelDataModelTask.php
+END
+PropelGraphvizTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/PropelGraphvizTask.php
+END
+PropelSQLTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/PropelSQLTask.php
+END
+PropelSchemaReverseTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/PropelSchemaReverseTask.php
+END
+PropelDataDumpTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/PropelDataDumpTask.php
+END
+PropelOMTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/PropelOMTask.php
+END
+PropelDataSQLTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/PropelDataSQLTask.php
+END
+PropelConvertConfTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/PropelConvertConfTask.php
+END
+PropelDataModelTemplateTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/PropelDataModelTemplateTask.php
+END
+PropelCreoleTransformTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/PropelCreoleTransformTask.php
+END
+PropelDataDTDTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/PropelDataDTDTask.php
+END
+PropelSQLExec.php
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/phing/PropelSQLExec.php
+END

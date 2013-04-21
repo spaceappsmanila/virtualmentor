@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/config/skeleton/config
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/config/skeleton/config/propel.ini
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/config/skeleton/config/databases.yml
+END
+schema.yml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/config/skeleton/config/schema.yml
+END

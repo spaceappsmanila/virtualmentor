@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/lib
+END
+ExtendMe.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/lib/ExtendMe.class.php
+END
+BaseExtendMe.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/lib/BaseExtendMe.class.php
+END

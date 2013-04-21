@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/template/templates
+END
+showSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/template/templates/showSuccess.php
+END
+editSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/template/templates/editSuccess.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/template/templates/indexSuccess.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/template/templates/_form.php
+END
+newSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/template/templates/newSuccess.php
+END

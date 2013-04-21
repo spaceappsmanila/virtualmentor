@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfGeneratorConfigHandler
+END
+no_generator_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfGeneratorConfigHandler/no_generator_section.yml
+END
+root_fields_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfGeneratorConfigHandler/root_fields_section.yml
+END
+empty.yml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfGeneratorConfigHandler/empty.yml
+END
+root_edit_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfGeneratorConfigHandler/root_edit_section.yml
+END
+no_generator_class.yml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfGeneratorConfigHandler/no_generator_class.yml
+END
+root_list_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/config/fixtures/sfGeneratorConfigHandler/root_list_section.yml
+END

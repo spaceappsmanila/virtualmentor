@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n
+END
+sfMessageSource_XLIFFTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n/sfMessageSource_XLIFFTest.php
+END
+sfCultureInfoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n/sfCultureInfoTest.php
+END
+dataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n/dataTest.php
+END
+sfChoiceFormatTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n/sfChoiceFormatTest.php
+END
+sfMessageSource_FileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n/sfMessageSource_FileTest.php
+END
+sfMessageSource_SQLiteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n/sfMessageSource_SQLiteTest.php
+END
+sfMessageSourceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n/sfMessageSourceTest.php
+END
+sfMessageSource_AggregateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n/sfMessageSource_AggregateTest.php
+END
+sfI18NTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n/sfI18NTest.php
+END
+sfNumberFormatInfoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/i18n/sfNumberFormatInfoTest.php
+END

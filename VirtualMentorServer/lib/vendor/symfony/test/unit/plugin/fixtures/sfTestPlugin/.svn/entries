@@ -1,0 +1,50 @@
+10
+
+dir
+306
+https://svn.srv.pointwest.com.ph/repos/orion/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/test/unit/plugin/fixtures/sfTestPlugin
+https://svn.srv.pointwest.com.ph/repos/orion
+
+
+
+2013-04-19T04:41:07.483263Z
+306
+mark.badiola
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d76c7e8c-f53c-4149-b651-b6d4eafcf4ef
+
+
+
+
+
+
+0
+
+sfTestPlugin-1.0.0
+dir
+
+sfTestPlugin-1.0.3
+dir
+
+sfTestPlugin-1.0.4
+dir
+
+sfTestPlugin-1.1.3
+dir
+
+sfTestPlugin-1.1.4
+dir
+

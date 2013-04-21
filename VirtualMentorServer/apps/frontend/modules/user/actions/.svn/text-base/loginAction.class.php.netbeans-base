@@ -1,0 +1,49 @@
+<?php
+
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/**
+ * Description of loginAction
+ *
+ * @author markbadiola
+ */
+class loginAction extends sfAction {
+
+    public function execute($request) {
+        try {
+            $this->form = new LoginForm();
+            if ($request->isMethod('get')) {
+                return sfView::INPUT;
+            } else if ($request->isMethod('post')) {
+                $this->form->bind($request->getParameter('login'));
+                if(!$this->form->isValid()) {
+                    $errors = $this->form->getErrorSchema()->getMessage();
+                    throw new Exception($errors);
+                } else {
+                    $loginSuccess = Doctrine_Query::create()->select('u.email, u.password, m.name')
+                            ->from('member u')->innerJoin('membership m')
+                            ->where('u.membership = m.id AND u.email = ? AND u.password = ?', array(
+                                $this->form->getValue('email'),
+                                $this->form->getValue('password')
+                            ))->fetchArray();
+                    if($loginSuccess) {
+                        echo json_encode($loginSuccess);
+                        return sfView::NONE;
+                        //$this->getUser()->addCredential('');
+                    }
+                    $this->getUser()->setAttribute('is_authenticated', true);
+                    echo $this->getUser()->getAttribute('is_authenticated');
+                    return sfView::NONE;
+                }
+            }
+            return sfview::NONE;
+        } catch (Exception $e) {
+            echo json_encode($e->getMessage());
+            return sfView::NONE;
+        }
+    }
+
+}

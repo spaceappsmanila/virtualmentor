@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/config
+END
+installer.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/config/installer.php
+END
+sfDoctrinePluginConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/config/sfDoctrinePluginConfiguration.class.php
+END
+autoload.yml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/config/autoload.yml
+END

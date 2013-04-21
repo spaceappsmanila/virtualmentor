@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/apps/backend/config
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/apps/backend/config/routing.yml
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/apps/backend/config/factories.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/apps/backend/config/filters.yml
+END
+backendConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/apps/backend/config/backendConfiguration.class.php
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/apps/backend/config/security.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/apps/backend/config/app.yml
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/apps/backend/config/cache.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/apps/backend/config/settings.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/apps/backend/config/view.yml
+END

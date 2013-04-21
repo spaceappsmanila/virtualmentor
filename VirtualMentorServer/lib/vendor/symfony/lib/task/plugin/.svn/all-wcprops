@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/plugin
+END
+sfPluginBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/plugin/sfPluginBaseTask.class.php
+END
+sfPluginAddChannelTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/plugin/sfPluginAddChannelTask.class.php
+END
+sfPluginPublishAssetsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/plugin/sfPluginPublishAssetsTask.class.php
+END
+sfPluginUninstallTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/plugin/sfPluginUninstallTask.class.php
+END
+sfPluginListTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/plugin/sfPluginListTask.class.php
+END
+sfPluginInstallTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/plugin/sfPluginInstallTask.class.php
+END
+sfPluginUpgradeTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/plugin/sfPluginUpgradeTask.class.php
+END

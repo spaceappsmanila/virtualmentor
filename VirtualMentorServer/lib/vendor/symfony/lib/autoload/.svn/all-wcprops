@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/autoload
+END
+sfCoreAutoload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/autoload/sfCoreAutoload.class.php
+END
+sfAutoload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/autoload/sfAutoload.class.php
+END
+sfAutoloadAgain.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/autoload/sfAutoloadAgain.class.php
+END
+sfSimpleAutoload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/autoload/sfSimpleAutoload.class.php
+END

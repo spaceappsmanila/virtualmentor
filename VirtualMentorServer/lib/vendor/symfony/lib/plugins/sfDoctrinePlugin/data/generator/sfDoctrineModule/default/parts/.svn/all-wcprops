@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/default/parts
+END
+newAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/default/parts/newAction.php
+END
+indexAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/default/parts/indexAction.php
+END
+processFormAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/default/parts/processFormAction.php
+END
+updateAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/default/parts/updateAction.php
+END
+editAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/default/parts/editAction.php
+END
+deleteAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/default/parts/deleteAction.php
+END
+createAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/default/parts/createAction.php
+END
+showAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/default/parts/showAction.php
+END

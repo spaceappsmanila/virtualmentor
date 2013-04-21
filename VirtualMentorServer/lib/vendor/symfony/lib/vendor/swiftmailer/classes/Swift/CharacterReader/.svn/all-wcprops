@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/CharacterReader
+END
+UsAsciiReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/CharacterReader/UsAsciiReader.php
+END
+GenericFixedWidthReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/CharacterReader/GenericFixedWidthReader.php
+END
+Utf8Reader.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/CharacterReader/Utf8Reader.php
+END

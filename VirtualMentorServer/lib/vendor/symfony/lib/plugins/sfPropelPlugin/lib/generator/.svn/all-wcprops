@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/generator
+END
+sfPropelFormGenerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/generator/sfPropelFormGenerator.class.php
+END
+sfPropelGenerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/generator/sfPropelGenerator.class.php
+END
+sfPropelFormFilterGenerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/generator/sfPropelFormFilterGenerator.class.php
+END

@@ -1,0 +1,19 @@
+courses:
+  is_secure: true
+  credentials: [[mentor, mentee]]
+
+enroll:
+  is_secure: true
+  credentials: mentee
+  
+user:
+  is_secure: true
+  credentials: [[mentor, mentee]]
+  
+answer:
+  is_secure: true
+  credentials: mentee
+  
+feedback:
+  is_secure: true
+  credentials: mentor

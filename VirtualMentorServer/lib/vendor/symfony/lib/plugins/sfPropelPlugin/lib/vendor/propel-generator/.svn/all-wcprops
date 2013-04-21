@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/default.properties
+END
+build-propel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/build-propel.xml
+END
+build.properties-sample
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/build.properties-sample
+END
+build.xml-local
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/build.xml-local
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/build.xml
+END

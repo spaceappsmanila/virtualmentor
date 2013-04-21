@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system
+END
+ResolvePathTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/ResolvePathTask.php
+END
+PhpEvalTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/PhpEvalTask.php
+END
+CopyTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/CopyTask.php
+END
+AdhocTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/AdhocTask.php
+END
+ChmodTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/ChmodTask.php
+END
+MatchingTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/MatchingTask.php
+END
+SequentialTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/SequentialTask.php
+END
+TouchTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/TouchTask.php
+END
+ChownTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/ChownTask.php
+END
+XsltTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/XsltTask.php
+END
+UpToDateTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/UpToDateTask.php
+END
+WarnTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/WarnTask.php
+END
+AvailableTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/AvailableTask.php
+END
+ForeachTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/ForeachTask.php
+END
+InputTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/InputTask.php
+END
+TypedefTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/TypedefTask.php
+END
+TstampTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/TstampTask.php
+END
+CvsPassTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/CvsPassTask.php
+END
+ExecTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/ExecTask.php
+END
+MoveTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/MoveTask.php
+END
+AdhocTypedefTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/AdhocTypedefTask.php
+END
+PropertyTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/PropertyTask.php
+END
+PropertyPromptTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/PropertyPromptTask.php
+END
+AppendTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/AppendTask.php
+END
+ConditionTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/ConditionTask.php
+END
+IfTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/IfTask.php
+END
+ExitTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/ExitTask.php
+END
+CvsTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/CvsTask.php
+END
+TaskdefTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/TaskdefTask.php
+END
+EchoTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/EchoTask.php
+END
+AdhocTaskdefTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/AdhocTaskdefTask.php
+END
+PhingCallTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/PhingCallTask.php
+END
+PhingTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/PhingTask.php
+END
+DeleteTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/DeleteTask.php
+END
+ReflexiveTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/ReflexiveTask.php
+END
+IncludePathTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/IncludePathTask.php
+END
+MkdirTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/MkdirTask.php
+END

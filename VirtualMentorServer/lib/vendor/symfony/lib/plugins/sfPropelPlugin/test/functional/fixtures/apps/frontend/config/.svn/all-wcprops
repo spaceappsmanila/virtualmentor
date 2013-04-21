@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/config
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/config/routing.yml
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/config/factories.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/config/filters.yml
+END
+frontendConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/config/frontendConfiguration.class.php
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/config/security.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/config/app.yml
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/config/cache.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/config/settings.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/config/view.yml
+END

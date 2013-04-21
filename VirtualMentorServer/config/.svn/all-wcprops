@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/config
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/config/ProjectConfiguration.class.php
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/config/databases.yml
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/config/properties.ini
+END
+rsync_exclude.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/config/rsync_exclude.txt
+END

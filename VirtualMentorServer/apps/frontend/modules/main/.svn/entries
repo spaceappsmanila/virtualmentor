@@ -1,0 +1,35 @@
+10
+
+dir
+0
+https://svn.srv.pointwest.com.ph/repos/orion/6_Codes/1_Backend/virtualmentor/apps/frontend/modules/main
+https://svn.srv.pointwest.com.ph/repos/orion
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d76c7e8c-f53c-4149-b651-b6d4eafcf4ef
+
+config
+dir
+
+
+
+add
+

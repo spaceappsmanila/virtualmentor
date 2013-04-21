@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Encoder
+END
+Base64Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Encoder/Base64Encoder.php
+END
+QpEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Encoder/QpEncoder.php
+END
+Rfc2231Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Encoder/Rfc2231Encoder.php
+END

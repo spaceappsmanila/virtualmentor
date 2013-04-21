@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional
+END
+formTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/formTest.php
+END
+poolingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/poolingTest.php
+END
+i18nTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/i18nTest.php
+END
+pagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/pagerTest.php
+END

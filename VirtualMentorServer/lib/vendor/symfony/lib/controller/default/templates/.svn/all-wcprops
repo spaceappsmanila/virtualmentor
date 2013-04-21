@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/controller/default/templates
+END
+disabledSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/controller/default/templates/disabledSuccess.php
+END
+moduleSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/controller/default/templates/moduleSuccess.php
+END
+loginSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/controller/default/templates/loginSuccess.php
+END
+defaultLayout.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php
+END
+secureSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/controller/default/templates/secureSuccess.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php
+END
+error404Success.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/controller/default/templates/error404Success.php
+END

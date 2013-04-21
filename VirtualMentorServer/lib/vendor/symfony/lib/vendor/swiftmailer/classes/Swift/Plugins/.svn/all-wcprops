@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins
+END
+PopBeforeSmtpPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/PopBeforeSmtpPlugin.php
+END
+RedirectingPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/RedirectingPlugin.php
+END
+ThrottlerPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/ThrottlerPlugin.php
+END
+BandwidthMonitorPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/BandwidthMonitorPlugin.php
+END
+DecoratorPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/DecoratorPlugin.php
+END
+AntiFloodPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/AntiFloodPlugin.php
+END
+Logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/Logger.php
+END
+Reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/Reporter.php
+END
+BlackholePlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/BlackholePlugin.php
+END
+LoggerPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/LoggerPlugin.php
+END
+ReporterPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/ReporterPlugin.php
+END
+Sleeper.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/Sleeper.php
+END
+Timer.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/Timer.php
+END

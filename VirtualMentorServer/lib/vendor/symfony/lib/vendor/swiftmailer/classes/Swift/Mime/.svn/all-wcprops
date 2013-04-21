@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime
+END
+MimeEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/MimeEntity.php
+END
+HeaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/HeaderFactory.php
+END
+CharsetObserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/CharsetObserver.php
+END
+Attachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/Attachment.php
+END
+ContentEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder.php
+END
+SimpleHeaderSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/SimpleHeaderSet.php
+END
+EmbeddedFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/EmbeddedFile.php
+END
+ParameterizedHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/ParameterizedHeader.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/Message.php
+END
+MimePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/MimePart.php
+END
+EncodingObserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/EncodingObserver.php
+END
+SimpleMimeEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/SimpleMimeEntity.php
+END
+SimpleHeaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/SimpleHeaderFactory.php
+END
+Header.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/Header.php
+END
+HeaderEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/HeaderEncoder.php
+END
+HeaderSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/HeaderSet.php
+END
+SimpleMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/SimpleMessage.php
+END

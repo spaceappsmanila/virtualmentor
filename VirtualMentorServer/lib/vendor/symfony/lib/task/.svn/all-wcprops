@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task
+END
+sfCommandApplicationTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/sfCommandApplicationTask.class.php
+END
+sfFilesystem.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/sfFilesystem.class.php
+END
+sfTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/sfTask.class.php
+END
+sfBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/orion/!svn/ver/306/6_Codes/1_Backend/virtualmentor/lib/vendor/symfony/lib/task/sfBaseTask.class.php
+END

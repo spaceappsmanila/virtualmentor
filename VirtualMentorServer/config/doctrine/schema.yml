@@ -1,0 +1,187 @@
+#defines membership types
+Membership:
+  actAs: { Timestampable: ~ }
+  columns:
+    id: { type: integer, primary: true, autoincrement: true }
+    name: { type: varchar(255), notnull: true }
+
+Member:
+  actAs: { Timestampable: ~ }
+  columns:
+    id: { type: integer, primary: true, autoincrement: true }
+    firstname: { type: varchar(255), notnull: true }
+    lastname: { type: varchar(255), notnull: true }
+    email: { type: varchar(255), notnull: true }
+    password: { type: varchar(255), notnull: true }
+    
+    #tells whether user is student or mentor
+    membership: { type: integer, notnull: true } 
+  relations:
+    Membership:
+      local: membership
+      foreign: id
+      type: one
+      foreignType: many
+      foreignAlias: Members
+      onDelete: CASCADE
+      onUpdate: CASCADE
+
+Course:
+  actAs: { Timestampable: ~ }
+  columns:
+    id: { type: integer, primary: true, autoincrement: true }
+    name: { type: varchar(255), notnull: true }
+    description: { type: string, notnull: true }
+    #owner mentor's id
+    owner: { type: integer, notnull: true }
+  relations:
+    Member:
+      local: owner
+      foreign: id
+      type: one
+      foreignType: many
+      foreignAlias: Courses
+      onDelete: CASCADE
+      onUpdate: CASCADE
+
+LessonPlan:
+  actAs: { Timestampable: ~ }
+  columns:
+    id: { type: integer, primary: true, autoincrement: true }
+    name: { type: varchar(255), notnull: true }
+    description: { type: string, notnull: true }
+    durationindays: { type: integer, notnull: true }
+    #owner mentor's id
+    owner: { type: integer, notnull: true }
+    #parent course
+    course: { type: integer, notnull: true }
+  relations:
+    Member:
+      local: owner
+      foreign: id
+      type: one
+      foreignType: many
+      foreignAlias: LessonPlans
+      onDelete: CASCADE
+      onUpdate: CASCADE
+    Course:
+      local: course
+      foreign: id
+      type: one
+      foreignType: many
+      foreignAlias: Lessons
+      onDelete: CASCADE
+      onUpdate: CASCADE
+
+Question:
+  actAs: { Timestampable: ~ }
+  columns:
+    id: { type: integer, primary: true, autoincrement: true }
+    #parent lesson plan
+    lessonplan: { type: integer, notnull: true }
+    name: { type: varchar(255), notnull: true }
+    question: { type: string, notnull: true }
+  relations:
+    LessonPlan:
+      local: lessonplan
+      foreign: id
+      type: one
+      foreignType: many
+      foreignAlias: Questions
+      onDelete: CASCADE
+      onUpdate: CASCADE
+
+Feedback:
+  actAs: { Timestampable: ~ }
+  columns:
+    id: { type: integer, primary: true, autoincrement: true }
+    question: { type: integer, notnull: true }
+    videochat: { type: integer, notnull: true }
+    website: { type: integer, notnull: true }
+    questionability: { type: integer, notnull: true }
+    interest: { type: integer, notnull: true }
+  relations:
+    Question:
+      local: question
+      foreign: id
+      type: one
+      foreignType: one
+      foreignAlias: Feedback
+      onDelete: CASCADE
+      onUpdate: CASCADE
+      
+Answer:
+  actAs: { Timestampable: ~ }
+  columns:
+    id: { type: integer, primary: true, autoincrement: true }
+    #id of mentee who gave this answer
+    mentee: { type: integer, notnull: true }
+    #ids of question and feedback fom which the mentor can be traced
+    question: { type: integer, notnull: true }
+    feedback: { type: integer, notnull: false }
+    answer: { type: string, notnull: true }
+  relations:
+    Member:
+      local: mentee
+      foreign: id
+      type: one
+      foreignType: many
+      foreignAlias: Answers
+      onDelete: CASCADE
+      onUpdate: CASCADE
+    Question:
+      local: question
+      foreign: id
+      type: one
+      foreignType: many
+      foreignAlias: Answers
+      onDelete: CASCADE
+      onUpdate: CASCADE
+    Feedback:
+      local: feedback
+      foreign: id
+      type: one
+      foreignType: one
+      foreignAlias: Answer
+      onDelete: CASCADE
+      onUpdate: CASCADE
+
+RegistrationStatus:
+  actAs: { Timestampable: ~ }
+  columns:
+    id: { type: integer, primary: true, autoincrement: true }
+    name: { type: varchar(255), notnull: true }
+
+#keeps student registration records to courses
+CourseRegistration:
+  actAs: { Timestampable: ~ }
+  columns:
+    id: { type: integer, primary: true, autoincrement: true }
+    course: { type: integer, notnull: true }
+    mentee: { type: integer, notnull: true }
+    status: { type: integer, notnull: true }
+  relations:
+    Course:
+      local: course
+      foreign: id
+      type: one
+      foreignType: many
+      foreignAlias: Registrations
+      onDelete: CASCADE
+      onUpdate: CASCADE
+    Member:
+      local: mentee
+      foreign: id
+      type: one
+      foreignType: many
+      foreignAlias: CourseRegistrations
+      onDelete: CASCADE
+      onUpdate: CASCADE
+    RegistrationStatus:
+      local: status
+      foreign: id
+      type: one
+      foreignType: many
+      foreignAlias: StudentsStatuses
+      onDelete: CASCADE
+      onUpdate: CASCADE
